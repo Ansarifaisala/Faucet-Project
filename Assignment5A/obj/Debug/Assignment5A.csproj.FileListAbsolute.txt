@@ -1,0 +1,10 @@
+C:\Users\firoz ansari\source\repos\Assignment5A\Assignment5A\bin\Debug\Assignment5A.exe.config
+C:\Users\firoz ansari\source\repos\Assignment5A\Assignment5A\bin\Debug\Assignment5A.exe
+C:\Users\firoz ansari\source\repos\Assignment5A\Assignment5A\bin\Debug\Assignment5A.pdb
+C:\Users\firoz ansari\source\repos\Assignment5A\Assignment5A\obj\Debug\Assignment5A.csprojAssemblyReference.cache
+C:\Users\firoz ansari\source\repos\Assignment5A\Assignment5A\obj\Debug\Assignment5A.Form1.resources
+C:\Users\firoz ansari\source\repos\Assignment5A\Assignment5A\obj\Debug\Assignment5A.Properties.Resources.resources
+C:\Users\firoz ansari\source\repos\Assignment5A\Assignment5A\obj\Debug\Assignment5A.csproj.GenerateResource.cache
+C:\Users\firoz ansari\source\repos\Assignment5A\Assignment5A\obj\Debug\Assignment5A.csproj.CoreCompileInputs.cache
+C:\Users\firoz ansari\source\repos\Assignment5A\Assignment5A\obj\Debug\Assignment5A.exe
+C:\Users\firoz ansari\source\repos\Assignment5A\Assignment5A\obj\Debug\Assignment5A.pdb
